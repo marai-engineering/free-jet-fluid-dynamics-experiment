@@ -2,12 +2,25 @@
 
 Experimental investigation of a free air jet conducted in the Fluid Mechanics Laboratory at BME. The objective of the experiment was to analyze the velocity distribution, volume flow rate, and development of a free jet using Pitot-static measurements.
 
-![Velocity Profiles](diagrams/velocity-profiles.png)
+## Experimental Results
 
-![Volume Flow vs Height](diagrams/Q-height.png)
+### Velocity Profiles
 
-![Thrust vs Height](diagrams/thrust.png)
+<p align="center">
+  <img src="diagrams/velocity-profiles.png" width="500">
+</p>
 
+### Volume Flow Rate vs Height
+
+<p align="center">
+  <img src="diagrams/Q-height.png" width="500">
+</p>
+
+### Thrust vs Height
+
+<p align="center">
+  <img src="diagrams/thrust.png" width="500">
+</p>
 In this experiment, the velocity profile of a free air jet was measured at different downstream heights from the nozzle. Dynamic pressure measurements were obtained using a Pitot-static tube connected to a digital manometer, and the flow characteristics were evaluated through data processing and analysis.
 
 The experiment demonstrates key principles of fluid mechanics including jet development, velocity decay, and measurement uncertainty.
