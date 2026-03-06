@@ -85,9 +85,9 @@ The experiment produced several key observations:
 - Maximum velocity decreases with increasing distance from the nozzle.
 - The jet spreads as it moves downstream, increasing the effective flow area.
 - Thrust force decreases with height due to the reduction in velocity.
-```
-## Repository Structure
 
+## Repository Structure
+```
 free-jet-fluid-dynamics-experiment
 │
 ├── report
